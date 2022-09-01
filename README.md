@@ -1,14 +1,16 @@
 ### Hi there 👋
+``` yaml
 name: Ahmed Abdallah
 mail: ahmed.abdallah1024@gmail.com
 company: null
 title: Computer Science Student
-job Title:
-  data scientist
+job tiltle:
+  * Data Analyst
 programming-languages:
   - python
   - c/c++
   - SQL
+```
 <!--
 **ahmed-2001M/ahmed-2001M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
