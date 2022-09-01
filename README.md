@@ -13,6 +13,11 @@ company: null
 title: Computer Science Student
 job tiltle:
   * Data Analyst
+my skills:
+  -Data Cleaning
+  -Data Preprocessing
+  -Data Visualization
+  -Machine Learning
 programming-languages:
   - python
   - c/c++
