@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <picture align="right"  width="53.5%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/35/e7/89/35e789375edbc9a50532d1a62701dc2d.jpg"   width="53.5%" height="50%">
-  <img  align="right"   alt="" src=""   width="53.5%" height="50%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/35/e7/89/35e789375edbc9a50532d1a62701dc2d.jpg"   width="43.5%" height="40%">
+  <img  align="right"   alt="" src=""   width="43.5%" height="40%">
 </picture>
 
 
@@ -23,15 +23,12 @@ programming-languages:
   - c/c++
   - SQL
 ```
-<!--
-**ahmed-2001M/ahmed-2001M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on GP(it will be software project that will help cancer patients)
-- 🌱 I’m currently learning data science 
-- 💬 Ask me about ...
-- 📫 How to reach me: ![<Badge Name>](https://www.linkedin.com/in/ahmed-abdallah-8077271aa/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 📫 How to reach me
+  <p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ahmed-abdallah-8077271aa/">
+    <img src="https://img.shields.io/badge/Ahmed Abdallah-linkedin-blue?style=flat&logo=linkedin">
+  </a><a href="mailto:ahme.abdallah1024@gmail.com">
+    <img src="https://img.shields.io/badge/Ahmed Abdallah-gmail-red?style=flat&logo=gmail">
+  </a>
+  </p>
