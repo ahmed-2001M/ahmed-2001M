@@ -2,7 +2,7 @@
 
 <picture align="right"  width="53.5%">
   <source media="(prefers-color-scheme: dark)" srcset="https://steemitimages.com/p/USgKoryE83j3fGoXn5YYY26Q8RrvxPuCAf8LiSd9a56aS4GAXtBs2GTyFsiqsx6phom6q4m4d9tDw4ipXc1duh?format=match&mode=fit"   width="43%" height="43%">
-  <img  align="right"   alt="" src=""   width="50%" height="50%">
+  <img  align="right"   alt="" src="https://steemitimages.com/p/USgKoryE83j3fGoXn5YYY26Q8RrvxPuCAf8LiSd9a56aS4GAXtBs2GTyFsiqsx6phom6q4m4d9tDw4ipXc1duh?format=match&mode=fit"   width="50%" height="50%">
 </picture>
 
 
