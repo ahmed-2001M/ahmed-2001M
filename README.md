@@ -28,7 +28,7 @@ programming-languages:
   <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ahmed-abdallah-8077271aa/">
     <img src="https://img.shields.io/badge/Ahmed Abdallah-linkedin-blue?style=flat&logo=linkedin">
-  </a><a href="mailto:ahme.abdallah1024@gmail.com">
+  </a><a href="mailto:ahmed.abdallah1024@gmail.com">
     <img src="https://img.shields.io/badge/Ahmed Abdallah-gmail-red?style=flat&logo=gmail">
   </a>
   </p>
